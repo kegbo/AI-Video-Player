@@ -1,0 +1,17 @@
+SpeechRecognition
+pydub
+Moviepy
+langchain
+langchain-chroma
+chroma
+faiss-cpu
+pyttsx3
+opencv-python
+mediapipe
+tts
+cvzone
+pyaudio
+PyQt5 
+google-generativeai 
+langchain-google-genai 
+sentence-transformers

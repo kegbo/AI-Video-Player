@@ -1,0 +1,8 @@
+ffmpeg
+SpeechRecognition
+pydub
+sentence-transformers
+langchain
+chroma
+langchain-chroma
+PyQt5 
