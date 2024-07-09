@@ -10,7 +10,7 @@ from langchain_community.document_loaders import pdf, text
 from langchain.schema.document import Document
 
 
-palm_api_key="AIzaSyBZ00vqmEJufpuT0V7vOVBm0ESAjpBUcow"
+palm_api_key=""
 def answer_query(dir,question:str) -> str:
 
     embedding_function = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
